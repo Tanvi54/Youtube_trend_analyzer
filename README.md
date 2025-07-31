@@ -59,5 +59,8 @@ pip install pandas google-api-python-client
 python youtube_api.py
 
 
+---
+
 ## 📊 Power BI Dashboard
+![Dashboard Screenshot](Dashboard.png)
 
