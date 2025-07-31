@@ -61,6 +61,9 @@ python youtube_api.py
 
 ---
 
-## 📊 Power BI Dashboard
-![Dashboard Screenshot](Dashboard.png)
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard.png" alt="YouTube Trend Analyzer Dashboard" width="800"/>
+</p>
 
