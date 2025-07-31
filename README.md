@@ -1,5 +1,6 @@
-# 🎬 YouTube Trending Video Analyzer
-
+<h1>
+<img src="youtube.png" alt="YouTube_trend_analyzer\youtube.png" width="50" style="vertical-align: middle; margin-right: 20px;"/> YouTube Trending Video Analyzer
+</h1>  
 An interactive **YouTube Trending Video Analyzer** built with **Python**, **YouTube Data API**, and **Power BI**.  
 This project fetches trending YouTube videos for a specific region, processes key statistics, and visualizes them in a **dynamic dashboard**.
 
