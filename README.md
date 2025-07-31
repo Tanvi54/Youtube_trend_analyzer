@@ -28,12 +28,17 @@ This project fetches trending YouTube videos for a specific region, processes ke
 
 ## 📂 Project Structure
 youtube_trending_analyzer/
-│
-├── youtube_api.py # Python script to fetch trending videos
-├── trending_data.csv # Exported dataset from YouTube API
-├── youtube_analyzer_dashboard.pbix # Power BI dashboard
-├── data_analysis.py #Insights for streamlit dashboard
-└── README.md # Project documentation
+
+
+  ├── youtube_api.py # Python script to fetch trending videos
+
+  ├── trending_data.csv # Exported dataset from YouTube API
+
+  ├── youtube_analyzer_dashboard.pbix # Power BI dashboard
+  
+  ├── data_analysis.py #Insights for streamlit dashboard
+
+  └── README.md # Project documentation
 
 ---
 
@@ -49,13 +54,12 @@ youtube_trending_analyzer/
 ---
 
 ### **2. Install Dependencies**
-```bash
 pip install pandas google-api-python-client
 
 ---
 
+
 ### **3. Run the Script**
-```bash
 python youtube_api.py
 
 
@@ -64,6 +68,6 @@ python youtube_api.py
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard.png" alt="YouTube Trend Analyzer Dashboard" width="800"/>
+  <img src="Dashboard.png" alt="YouTube Trend Analyzer Dashboard\Dashboard.png" width="800"/>
 </p>
 
